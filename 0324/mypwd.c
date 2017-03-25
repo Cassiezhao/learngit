@@ -6,7 +6,8 @@
 *2.通过特殊的文件名“..”获取当前目录的父级目录的inode-number
 *3.判断当前目录和上级目录的inode-number是否一样
 *4.如果两个inode-number一样说明到达根目录，输出完整路径，退出程序
-*5.如果两个inode-number不一样，切换至父级目录，根据步骤1获取的inode-number，在父级目录中搜索对应的文件名并记录下来，然后重新回到步骤1.
+*5.如果两个inode-number不一样，切换至父级目录，根据步骤1获取的inode-number，
+*	在父级目录中搜索对应的文件名并记录下来，然后重新回到步骤1.
 */
 #include <stdio.h>
 #include <stdlib.h>
