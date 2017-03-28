@@ -49,6 +49,11 @@ void printprelink(snode * head)
 		q = p;
 	}
 	printf("\n");
+// 	if(! head)
+// 	{
+// 		printprelink(head -> next);
+// 		printf("%d\t",head-> data);
+// 	}
 }
 //删除链表的头结点
 snode *  delheadnode(snode * head)
