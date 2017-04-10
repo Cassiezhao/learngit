@@ -1,0 +1,133 @@
+2017-04-10 20:39:37,941 [Worker-11] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|https://repo.maven.apache.org/maven2
+2017-04-10 20:39:42,569 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/icefaces/icefaces/1.8.0/icefaces-1.8.0.jar
+2017-04-10 20:39:43,954 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.pom
+2017-04-10 20:39:44,223 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.pom
+2017-04-10 20:39:44,502 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/22/maven-plugins-22.pom
+2017-04-10 20:39:44,793 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/22/maven-plugins-22.pom
+2017-04-10 20:39:45,053 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/21/maven-parent-21.pom
+2017-04-10 20:39:45,424 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/21/maven-parent-21.pom
+2017-04-10 20:39:45,695 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/10/apache-10.pom
+2017-04-10 20:39:46,003 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/10/apache-10.pom
+2017-04-10 20:39:46,280 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.jar
+2017-04-10 20:39:46,593 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.jar
+2017-04-10 20:39:46,991 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.pom
+2017-04-10 20:39:47,252 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.pom
+2017-04-10 20:39:48,062 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/23/maven-plugins-23.pom
+2017-04-10 20:39:49,575 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/23/maven-plugins-23.pom
+2017-04-10 20:39:49,834 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/22/maven-parent-22.pom
+2017-04-10 20:39:50,989 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/22/maven-parent-22.pom
+2017-04-10 20:39:51,264 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/11/apache-11.pom
+2017-04-10 20:39:51,624 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/11/apache-11.pom
+2017-04-10 20:39:51,916 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.jar
+2017-04-10 20:39:52,337 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.jar
+2017-04-10 20:39:52,661 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.6/maven-plugin-api-2.0.6.pom
+2017-04-10 20:39:52,924 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.6/maven-plugin-api-2.0.6.pom
+2017-04-10 20:39:53,182 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven/2.0.6/maven-2.0.6.pom
+2017-04-10 20:39:53,474 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven/2.0.6/maven-2.0.6.pom
+2017-04-10 20:39:53,729 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/5/maven-parent-5.pom
+2017-04-10 20:39:54,529 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/5/maven-parent-5.pom
+2017-04-10 20:39:54,808 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/3/apache-3.pom
+2017-04-10 20:39:55,077 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/3/apache-3.pom
+2017-04-10 20:39:55,357 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.6/maven-project-2.0.6.pom
+2017-04-10 20:39:56,439 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.6/maven-project-2.0.6.pom
+2017-04-10 20:39:56,711 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.6/maven-settings-2.0.6.pom
+2017-04-10 20:39:56,979 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.6/maven-settings-2.0.6.pom
+2017-04-10 20:39:57,254 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.6/maven-model-2.0.6.pom
+2017-04-10 20:39:57,521 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.6/maven-model-2.0.6.pom
+2017-04-10 20:39:57,803 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.4.1/plexus-utils-1.4.1.pom
+2017-04-10 20:39:58,070 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.4.1/plexus-utils-1.4.1.pom
+2017-04-10 20:39:58,365 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.11/plexus-1.0.11.pom
+2017-04-10 20:39:58,674 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.11/plexus-1.0.11.pom
+2017-04-10 20:39:58,935 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.pom
+2017-04-10 20:39:59,201 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.pom
+2017-04-10 20:39:59,465 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.0.3/plexus-containers-1.0.3.pom
+2017-04-10 20:39:59,723 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.0.3/plexus-containers-1.0.3.pom
+2017-04-10 20:39:59,986 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.4/plexus-1.0.4.pom
+2017-04-10 20:40:00,266 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.4/plexus-1.0.4.pom
+2017-04-10 20:40:00,531 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1.pom
+2017-04-10 20:40:00,800 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1.pom
+2017-04-10 20:40:01,074 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.0.4/plexus-utils-1.0.4.pom
+2017-04-10 20:40:01,388 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.0.4/plexus-utils-1.0.4.pom
+2017-04-10 20:40:01,659 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.pom
+2017-04-10 20:40:01,921 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.pom
+2017-04-10 20:40:02,693 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.6/maven-profile-2.0.6.pom
+2017-04-10 20:40:02,955 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.6/maven-profile-2.0.6.pom
+2017-04-10 20:40:03,222 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.6/maven-artifact-manager-2.0.6.pom
+2017-04-10 20:40:03,494 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.6/maven-artifact-manager-2.0.6.pom
+2017-04-10 20:40:04,294 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.6/maven-repository-metadata-2.0.6.pom
+2017-04-10 20:40:04,566 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.6/maven-repository-metadata-2.0.6.pom
+2017-04-10 20:40:04,841 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.6/maven-artifact-2.0.6.pom
+2017-04-10 20:40:05,107 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.6/maven-artifact-2.0.6.pom
+2017-04-10 20:40:05,384 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.0.6/maven-plugin-registry-2.0.6.pom
+2017-04-10 20:40:05,652 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.0.6/maven-plugin-registry-2.0.6.pom
+2017-04-10 20:40:06,433 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.5/plexus-utils-3.0.5.pom
+2017-04-10 20:40:06,703 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.5/plexus-utils-3.0.5.pom
+2017-04-10 20:40:06,968 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.1/plexus-3.1.pom
+2017-04-10 20:40:07,370 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.1/plexus-3.1.pom
+2017-04-10 20:40:08,249 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/17/spice-parent-17.pom
+2017-04-10 20:40:08,535 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/17/spice-parent-17.pom
+2017-04-10 20:40:08,806 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/10/forge-parent-10.pom
+2017-04-10 20:40:09,188 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/10/forge-parent-10.pom
+2017-04-10 20:40:10,282 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.pom
+2017-04-10 20:40:10,535 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.pom
+2017-04-10 20:40:10,796 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.7/plexus-components-1.1.7.pom
+2017-04-10 20:40:12,251 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.7/plexus-components-1.1.7.pom
+2017-04-10 20:40:12,524 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.8/plexus-1.0.8.pom
+2017-04-10 20:40:12,817 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.8/plexus-1.0.8.pom
+2017-04-10 20:40:13,071 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-8/plexus-container-default-1.0-alpha-8.pom
+2017-04-10 20:40:13,356 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-8/plexus-container-default-1.0-alpha-8.pom
+2017-04-10 20:40:13,637 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.6/maven-plugin-api-2.0.6.jar
+2017-04-10 20:40:14,016 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.6/maven-plugin-api-2.0.6.jar
+2017-04-10 20:40:14,281 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.6/maven-project-2.0.6.jar
+2017-04-10 20:40:16,081 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.6/maven-project-2.0.6.jar
+2017-04-10 20:40:16,453 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.6/maven-settings-2.0.6.jar
+2017-04-10 20:40:17,222 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.6/maven-settings-2.0.6.jar
+2017-04-10 20:40:18,189 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.6/maven-profile-2.0.6.jar
+2017-04-10 20:40:18,741 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.6/maven-profile-2.0.6.jar
+2017-04-10 20:40:19,118 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.0.6/maven-plugin-registry-2.0.6.jar
+2017-04-10 20:40:19,557 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.0.6/maven-plugin-registry-2.0.6.jar
+2017-04-10 20:40:19,929 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.jar
+2017-04-10 20:40:21,993 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.jar
+2017-04-10 20:40:23,142 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1.jar
+2017-04-10 20:40:25,576 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1.jar
+2017-04-10 20:40:25,847 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.jar
+2017-04-10 20:40:27,060 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.jar
+2017-04-10 20:40:27,338 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.6/maven-model-2.0.6.jar
+2017-04-10 20:40:29,340 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.6/maven-model-2.0.6.jar
+2017-04-10 20:40:29,608 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.6/maven-artifact-manager-2.0.6.jar
+2017-04-10 20:40:30,735 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.6/maven-artifact-manager-2.0.6.jar
+2017-04-10 20:40:31,003 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.6/maven-repository-metadata-2.0.6.jar
+2017-04-10 20:40:31,721 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.6/maven-repository-metadata-2.0.6.jar
+2017-04-10 20:40:31,983 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.6/maven-artifact-2.0.6.jar
+2017-04-10 20:40:33,674 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.6/maven-artifact-2.0.6.jar
+2017-04-10 20:40:33,942 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.5/plexus-utils-3.0.5.jar
+2017-04-10 20:40:37,912 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.5/plexus-utils-3.0.5.jar
+2017-04-10 20:40:38,148 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.jar
+2017-04-10 20:40:38,529 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.jar
+2017-04-10 20:40:38,992 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /Applications/MyEclipse 2016/MyEclipse 2016.app/Contents/Profile/plugins/com.genuitec.eclipse.icefaces_13.0.0.me201602031002/data/1.8.0/ICEfaces/icefaces.jar to /Users/cassie/.m2/repository/org/icefaces/icefaces/1.8.0/icefaces-1.8.0.jar
+2017-04-10 20:40:39,021 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /var/folders/18/mrhqj5594t17ptgyt7w541140000gn/T/mvninstall2182114763379092316.pom to /Users/cassie/.m2/repository/org/icefaces/icefaces/1.8.0/icefaces-1.8.0.pom
+2017-04-10 20:40:39,299 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/icefaces/icefaces/1.7.2/icefaces-1.7.2.jar
+2017-04-10 20:40:39,311 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /Applications/MyEclipse 2016/MyEclipse 2016.app/Contents/Profile/plugins/com.genuitec.eclipse.icefaces_13.0.0.me201602031002/data/1.7.2/ICEfaces/icefaces.jar to /Users/cassie/.m2/repository/org/icefaces/icefaces/1.7.2/icefaces-1.7.2.jar
+2017-04-10 20:40:39,328 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /var/folders/18/mrhqj5594t17ptgyt7w541140000gn/T/mvninstall7921856098865811507.pom to /Users/cassie/.m2/repository/org/icefaces/icefaces/1.7.2/icefaces-1.7.2.pom
+2017-04-10 20:40:41,807 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/icefaces/icefaces/1.7.1/icefaces-1.7.1.jar
+2017-04-10 20:40:41,822 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /Applications/MyEclipse 2016/MyEclipse 2016.app/Contents/Profile/plugins/com.genuitec.eclipse.icefaces_13.0.0.me201602031002/data/1.7.1/ICEfaces/icefaces.jar to /Users/cassie/.m2/repository/org/icefaces/icefaces/1.7.1/icefaces-1.7.1.jar
+2017-04-10 20:40:41,840 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /var/folders/18/mrhqj5594t17ptgyt7w541140000gn/T/mvninstall1256753365788697209.pom to /Users/cassie/.m2/repository/org/icefaces/icefaces/1.7.1/icefaces-1.7.1.pom
+2017-04-10 20:40:42,967 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/icefaces/icefaces/1.7.0/icefaces-1.7.0.jar
+2017-04-10 20:40:42,978 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /Applications/MyEclipse 2016/MyEclipse 2016.app/Contents/Profile/plugins/com.genuitec.eclipse.icefaces_13.0.0.me201602031002/data/1.7.0/ICEfaces/icefaces.jar to /Users/cassie/.m2/repository/org/icefaces/icefaces/1.7.0/icefaces-1.7.0.jar
+2017-04-10 20:40:43,002 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /var/folders/18/mrhqj5594t17ptgyt7w541140000gn/T/mvninstall4535635046485137549.pom to /Users/cassie/.m2/repository/org/icefaces/icefaces/1.7.0/icefaces-1.7.0.pom
+2017-04-10 20:40:44,109 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/icefaces/icefaces/1.6.2/icefaces-1.6.2.jar
+2017-04-10 20:40:44,119 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /Applications/MyEclipse 2016/MyEclipse 2016.app/Contents/Profile/plugins/com.genuitec.eclipse.icefaces_13.0.0.me201602031002/data/1.6.2/ICEfaces/icefaces.jar to /Users/cassie/.m2/repository/org/icefaces/icefaces/1.6.2/icefaces-1.6.2.jar
+2017-04-10 20:40:44,140 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /var/folders/18/mrhqj5594t17ptgyt7w541140000gn/T/mvninstall6577584048580493626.pom to /Users/cassie/.m2/repository/org/icefaces/icefaces/1.6.2/icefaces-1.6.2.pom
+2017-04-10 20:40:45,269 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/icefaces/icefaces/1.6.1/icefaces-1.6.1.jar
+2017-04-10 20:40:48,752 [Worker-11] ERROR o.e.m.c.i.i.nexus.NexusIndexManager - Unable to update index for central|https://repo.maven.apache.org/maven2
+org.eclipse.core.runtime.OperationCanceledException: null
+	at org.eclipse.m2e.core.internal.index.nexus.AetherClientResourceFetcher.retrieve(AetherClientResourceFetcher.java:90) ~[org.eclipse.m2e.core_1.6.0.me201603161722.jar:na]
+	at org.apache.maven.index.updater.AbstractResourceFetcher.retrieve(AbstractResourceFetcher.java:35) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater$LocalCacheIndexAdaptor.setIndexFile(DefaultIndexUpdater.java:700) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:829) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:135) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager.updateRemoteIndex(NexusIndexManager.java:1238) [org.eclipse.m2e.core_1.6.0.me201603161722.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager.updateIndex(NexusIndexManager.java:1193) [org.eclipse.m2e.core_1.6.0.me201603161722.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager$1.run(NexusIndexManager.java:703) [org.eclipse.m2e.core_1.6.0.me201603161722.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.IndexUpdaterJob.run(IndexUpdaterJob.java:72) [org.eclipse.m2e.core_1.6.0.me201603161722.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
