@@ -2,20 +2,38 @@
 # define n 3
 # define m 3
 //冒泡排序
-void sort(int a[],int N )
+// void sort(int a[],int N )
+// {
+// 	int i ,j ,temp;
+// 	for(i = 0; i < N -1; i++)
+// 	{
+// 		for(j = i + 1;j < N ;j ++)
+// 		{
+// 			if(a[i] > a[j]){
+// 				temp = a[j];
+// 				a[j] = a[i];
+// 				a[i] = temp;	
+// 			}
+// 		}
+// 	}
+// }
+
+void sort(int a[],int N)  //冒泡排序 
 {
-	int i ,j ,temp;
-	for(i = 0; i < N -1; i++)
-	{
-		for(j = i + 1;j < N ;j ++)
-		{
-			if(a[i] > a[j]){
-				temp = a[j];
-				a[j] = a[i];
-				a[i] = temp;	
-			}
-		}
-	}
+    int t,i,j;
+    for(i=0;i<N-1;i++)
+    {
+        for(j=0;j<N-i-1;j++) //注意在内层循环中j的结束值是 n-i-1，否则出错
+        {
+            if(a[j+1]<a[j])
+            {
+                t=a[j];
+                a[j]=a[j+1];
+                a[j+1]=t;  
+            }
+        }
+}
+
 }
 //合并增序数组A,B
 void combineAB(int  a[], int b[], int  c[], int N, int M)

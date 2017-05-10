@@ -2,7 +2,7 @@
 1.Docker ps -a
 2.docker start NAMES
 1.export PATH=$PATH:/Applications/MySQLWorkbench.app/Contents/MacOS
-2.sql命令：mysql -h 127.0.0.1 -uroot -p
+2.sql命令：mysql -h 127.0.0.1 -u root -p
 3.密码：pass@word01
 vim总结
 

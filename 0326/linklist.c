@@ -209,6 +209,7 @@ snode *  clearlink(snode * head)
 	}
 	return head;
 }
+
 int main(void)
 {
 	int a [n] = {13,15,17,21,28,42,45};
